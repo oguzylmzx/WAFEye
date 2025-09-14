@@ -108,12 +108,6 @@ USE AT YOUR OWN RISK. ALWAYS OBTAIN PROPER AUTHORIZATION.
 
 </div>
 
-## 🔥 **RECENT UPDATES**
 
-- **v2.1** - Added 15+ new WAF detection plugins
-- **v2.0** - Complete engine rewrite with improved accuracy  
-- **v1.9** - Active attack simulation module
-- **v1.8** - Matrix-style terminal interface
-- **v1.7** - Multi-threading support for faster scans
 
 *Stay tuned for more updates... 👁️*
